@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="64445" started-at="2021-11-05T12:30:44 GMT+05:30" finished-at="2021-11-05T12:31:49 GMT+05:30">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="64445" started-at="2021-11-05T12:30:44 GMT+05:30" finished-at="2021-11-05T12:31:49 GMT+05:30">
+      <class name="org.test.PathTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.test.PathTest@77ec78b9]" name="beforeClass" is-config="true" duration-ms="64372" started-at="2021-11-05T12:30:44 GMT+05:30" finished-at="2021-11-05T12:31:48 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:org.test.PathTest@77ec78b9]" name="f" duration-ms="10" started-at="2021-11-05T12:31:49 GMT+05:30" finished-at="2021-11-05T12:31:49 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.test.PathTest@77ec78b9]" name="afterClass" is-config="true" duration-ms="1" started-at="2021-11-05T12:31:49 GMT+05:30" finished-at="2021-11-05T12:31:49 GMT+05:30">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.test.PathTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
